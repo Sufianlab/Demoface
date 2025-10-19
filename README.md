@@ -1,7 +1,7 @@
 ```markdown
 # Demoface
 
-Small collection of Jupyter notebooks and utilities for preparing image data and experimenting with
+The collection of Jupyter notebooks and utilities for preparing image data and experimenting with
 vision+language models (inference and fine‑tuning).
 
 ## Quick start
