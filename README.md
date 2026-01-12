@@ -1,20 +1,27 @@
-```markdown
 # Demoface
 
 The collection of Jupyter notebooks and utilities for preparing image data and experimenting with
-vision+language models (inference and fine‑tuning).
+vision+language models (inference and fine-tuning).
 
 ## Quick start
 1. Clone the repo:
+   ```
    git clone https://github.com/Sufianlab/Demoface.git
+   ```
 2. Create & activate a virtual environment:
+   ```
    python -m venv .venv
    source .venv/bin/activate   # macOS / Linux
    .\.venv\Scripts\activate    # Windows
+   ```
 3. Install basic dependencies:
+   ```
    pip install jupyterlab torch torchvision transformers datasets pillow numpy opencv-python requests
+   ```
 4. Open notebooks:
+   ```
    jupyter lab
+   ```
 
 ## Requirements
 - Python 3.8+
@@ -34,12 +41,14 @@ vision+language models (inference and fine‑tuning).
 
 ## Dataset format
 Expected JSON entry after formatting:
+```
 {
   "id": "123",
   "image": "path/to/image.png",   // or image bytes
   "Question": "Prompt text",
   "Answer": "Expected answer (optional)"
 }
+```
 
 Ensure image paths are valid and update notebook variables that point to the dataset and image directories.
 
@@ -47,15 +56,13 @@ Ensure image paths are valid and update notebook variables that point to the dat
 
 You need to submit the Google Form below to get access to the dataset:
 
-<link href="https://forms.gle/BH359sRNFHZX6Szx5">
-
-
-
+👉 **[Dataset Access Google Form](https://forms.gle/BH359sRNFHZX6Szx5)**
 
 ## Disclaimer
 The rest of the code and files are under construction and will be updated shortly.
 
 ## Maintainer & Contact
-Maintainer: Sufianlab  
+Maintainer: Sufianlab
+
 GitHub: https://github.com/Sufianlab
 
