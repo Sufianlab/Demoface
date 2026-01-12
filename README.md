@@ -41,7 +41,7 @@ Expected JSON entry after formatting:
   "Answer": "Expected answer (optional)"
 }
 
-Ensure image paths are valid and update notebook variables that point to dataset and image directories.
+Ensure image paths are valid and update notebook variables that point to the dataset and image directories.
 
 
 ## Disclaimer
