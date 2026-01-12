@@ -43,6 +43,14 @@ Expected JSON entry after formatting:
 
 Ensure image paths are valid and update notebook variables that point to the dataset and image directories.
 
+## Dataset Access Form
+
+You need to submit the Google Form below to get access to the dataset:
+
+<link href="https://forms.gle/BH359sRNFHZX6Szx5">
+
+
+
 
 ## Disclaimer
 The rest of the code and files are under construction and will be updated shortly.
