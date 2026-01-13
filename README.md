@@ -56,7 +56,7 @@ Ensure image paths are valid and update notebook variables that point to the dat
 
 You need to submit the Google Form below to get access to the dataset:
 
-👉 **[Dataset Access Google Form](https://forms.gle/BH359sRNFHZX6Szx5)**
+👉 **[Dataset Access Agreement Form](https://forms.gle/BH359sRNFHZX6Szx5)**
 
 ## Disclaimer
 The rest of the code and files are under construction and will be updated shortly.
