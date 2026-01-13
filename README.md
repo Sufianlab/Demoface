@@ -1,4 +1,4 @@
-# Demoface
+# DemoFace
 
 The collection of Jupyter notebooks and utilities for preparing image data and experimenting with
 vision+language models (inference and fine-tuning).
