@@ -40,13 +40,13 @@ vision+language models (inference and fine-tuning).
 - face_preprocessing_through_cv2.ipynb — preprocessing with OpenCV / PIL
 
 ## Dataset format
-Expected JSON entry after formatting:
+JSON entry format:
 ```
 {
   "id": "123",
   "image": "path/to/image.png",   // or image bytes
   "Question": "Prompt text",
-  "Answer": "Expected answer (optional)"
+  "Answer": "Expected answer"
 }
 ```
 
